@@ -8,6 +8,10 @@
   },
   "author": "",
   "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/cainiaowulawula/lerna-test.git"
+  },
   "dependencies": {
     "classnames": "^2.3.1"
   }
